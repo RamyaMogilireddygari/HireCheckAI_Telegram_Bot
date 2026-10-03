@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+env/
+venv/
+ENV/
+
+# Environment Variables & Secrets
+.env
+.env.local
+*.secret
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Temporary uploads & outputs
+/temp_uploads/
+/scratch/
+*.log
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/

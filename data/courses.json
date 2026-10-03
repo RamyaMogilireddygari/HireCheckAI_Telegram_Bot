@@ -1,0 +1,180 @@
+{
+  "skills": {
+    "aws": {
+      "title": "AWS Cloud Practitioner Essentials",
+      "provider": "AWS Skill Builder (Free)",
+      "url": "https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/",
+      "reason": "Master foundational cloud concepts, security, and core AWS services directly from AWS."
+    },
+    "docker": {
+      "title": "Docker for Beginners & Containers Guide",
+      "provider": "freeCodeCamp",
+      "url": "https://www.freecodecamp.org/news/what-is-docker-used-for-a-docker-container-tutorial-for-beginners/",
+      "reason": "Hands-on containerization fundamentals, Dockerfile creation, and multi-container orchestration."
+    },
+    "kubernetes": {
+      "title": "Introduction to Kubernetes (LFS158x)",
+      "provider": "Linux Foundation / edX",
+      "url": "https://www.edx.org/learn/kubernetes/the-linux-foundation-introduction-to-kubernetes",
+      "reason": "Official Linux Foundation course on container orchestration, pods, deployments, and cluster management."
+    },
+    "python": {
+      "title": "Scientific Computing with Python",
+      "provider": "freeCodeCamp",
+      "url": "https://www.freecodecamp.org/learn/scientific-computing-with-python/",
+      "reason": "Comprehensive Python programming from fundamentals to algorithms and data structures."
+    },
+    "machine learning": {
+      "title": "Machine Learning Specialization",
+      "provider": "DeepLearning.AI / Coursera",
+      "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+      "reason": "Andrew Ng's world-renowned course on supervised learning, neural networks, and ML best practices."
+    },
+    "deep learning": {
+      "title": "Deep Learning Specialization",
+      "provider": "DeepLearning.AI / Coursera",
+      "url": "https://www.coursera.org/specializations/deep-learning",
+      "reason": "Build neural networks, CNNs, RNNs, Transformers, and hyperparameter tuning."
+    },
+    "nlp": {
+      "title": "Natural Language Processing with Transformers",
+      "provider": "Hugging Face",
+      "url": "https://huggingface.co/learn/nlp-course/",
+      "reason": "Industry standard course on tokenization, BERT/GPT fine-tuning, and Hugging Face pipelines."
+    },
+    "react": {
+      "title": "React Official Documentation & Interactive Guide",
+      "provider": "React.dev",
+      "url": "https://react.dev/learn",
+      "reason": "Modern React hooks, state management, components, and best practices."
+    },
+    "next.js": {
+      "title": "Next.js App Router Foundations",
+      "provider": "Vercel",
+      "url": "https://nextjs.org/learn",
+      "reason": "Server components, routing, data fetching, and full-stack React web architecture."
+    },
+    "sql": {
+      "title": "Relational Database & SQL Certification",
+      "provider": "freeCodeCamp",
+      "url": "https://www.freecodecamp.org/learn/relational-database/",
+      "reason": "Interactive PostgreSQL & SQL queries, table relations, indexes, and database design."
+    },
+    "postgresql": {
+      "title": "PostgreSQL Tutorial for Beginners",
+      "provider": "PostgreSQL Tutorial",
+      "url": "https://www.postgresqltutorial.com/",
+      "reason": "Comprehensive guide covering advanced indexing, transactions, CTEs, and query optimization."
+    },
+    "fastapi": {
+      "title": "FastAPI Official Tutorial & API Building",
+      "provider": "FastAPI Tiangolo",
+      "url": "https://fastapi.tiangolo.com/tutorial/",
+      "reason": "Modern asynchronous REST APIs with Pydantic validation and auto-generated Swagger documentation."
+    },
+    "gcp": {
+      "title": "Google Cloud Fundamentals: Core Infrastructure",
+      "provider": "Google Cloud / Coursera",
+      "url": "https://www.coursera.org/learn/gcp-fundamentals",
+      "reason": "Official GCP infrastructure, compute engine, cloud storage, BigQuery, and IAM."
+    },
+    "azure": {
+      "title": "Microsoft Azure Fundamentals (AZ-900)",
+      "provider": "Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/",
+      "reason": "Official Microsoft training on cloud computing, Azure architectural components, and security."
+    },
+    "ci/cd": {
+      "title": "GitHub Actions & CI/CD Pipelines Tutorial",
+      "provider": "GitHub Skills",
+      "url": "https://skills.github.com/",
+      "reason": "Automate testing, linting, building, and deployment with GitHub Actions workflows."
+    },
+    "graphql": {
+      "title": "GraphQL Odyssey Journey",
+      "provider": "Apollo GraphQL",
+      "url": "https://www.apollographql.com/tutorials/",
+      "reason": "Build production schemas, queries, mutations, resolvers, and client caching."
+    },
+    "typescript": {
+      "title": "TypeScript Handbook & Practical Guide",
+      "provider": "Microsoft TypeScript",
+      "url": "https://www.typescriptlang.org/docs/handbook/intro.html",
+      "reason": "Static typing, generics, utility types, and advanced type narrowing for robust JS apps."
+    },
+    "system design": {
+      "title": "System Design Primer",
+      "provider": "GitHub Open Source (Donne Martin)",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "reason": "Scalability, caching, load balancers, database sharding, microservices, and CAP theorem."
+    },
+    "git": {
+      "title": "Version Control with Git",
+      "provider": "freeCodeCamp",
+      "url": "https://www.freecodecamp.org/news/git-and-github-crash-course/",
+      "reason": "Branching strategies, rebasing, pull requests, resolving merge conflicts, and collaboration."
+    },
+    "llm": {
+      "title": "Generative AI with Large Language Models",
+      "provider": "DeepLearning.AI / Coursera",
+      "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+      "reason": "Fine-tuning, prompt engineering, RLHF, and RAG architectures for LLMs."
+    },
+    "langchain": {
+      "title": "LangChain for LLM Application Development",
+      "provider": "DeepLearning.AI",
+      "url": "https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/",
+      "reason": "Chains, memory, prompt templates, agents, and vector store retrieval."
+    },
+    "redis": {
+      "title": "Redis University - Fast Data & Caching",
+      "provider": "Redis University",
+      "url": "https://university.redis.com/",
+      "reason": "In-memory caching, data structures, Pub/Sub, Redis Streams, and distributed locking."
+    },
+    "mongodb": {
+      "title": "MongoDB Basics & Aggregation",
+      "provider": "MongoDB University",
+      "url": "https://learn.mongodb.com/",
+      "reason": "NoSQL document database design, aggregation pipelines, indexing, and replica sets."
+    },
+    "golang": {
+      "title": "Go Programming Tour & Fundamentals",
+      "provider": "Go.dev",
+      "url": "https://go.dev/tour/welcome/1",
+      "reason": "Official interactive Go tour covering goroutines, channels, interfaces, and memory safety."
+    },
+    "rust": {
+      "title": "The Rust Programming Language Book",
+      "provider": "Rust Foundation",
+      "url": "https://doc.rust-lang.org/book/",
+      "reason": "Borrow checker, lifetimes, concurrency, and high-performance systems engineering."
+    },
+    "cybersecurity": {
+      "title": "Foundations of Cybersecurity",
+      "provider": "Google / Coursera",
+      "url": "https://www.coursera.org/learn/foundations-of-cybersecurity",
+      "reason": "Security frameworks, network vulnerabilities, threats, and incident response."
+    }
+  },
+  "default_courses": [
+    {
+      "title": "Full Stack Open - Modern Web Development",
+      "provider": "University of Helsinki",
+      "url": "https://fullstackopen.com/en/",
+      "reason": "Industry-level full stack engineering covering React, Node, Express, and testing."
+    },
+    {
+      "title": "Cloud Computing Fundamentals",
+      "provider": "AWS Skill Builder",
+      "url": "https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/",
+      "reason": "Essential cloud deployment and infrastructure knowledge expected in modern roles."
+    },
+    {
+      "title": "System Design & Architecture Primer",
+      "provider": "System Design Primer",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "reason": "Master distributed systems, APIs, database scaling, and production reliability."
+    }
+  ]
+}
